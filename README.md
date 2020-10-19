@@ -1,2 +1,2 @@
-# ComputerVisionA1
+# Computer Vision A1
 ECSE415
